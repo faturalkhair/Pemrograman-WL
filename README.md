@@ -1,2 +1,2 @@
-ini adalah readme.
-saya adalah manusia
+Hidup hanya numpang ketawaa
+-jejeboy
