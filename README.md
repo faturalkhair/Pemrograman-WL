@@ -1,2 +1,2 @@
 ini adalah readme
-saya 
+saya adalah
