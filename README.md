@@ -1,2 +1,2 @@
-ini adalah readme
-saya adalah
+ini adalah readme.
+saya adalah manusia
